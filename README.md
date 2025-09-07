@@ -1,4 +1,4 @@
 # first.doc
 this is my first github repository.
 <br>
-author :- sagar kandpal
+author :- sagar kandpal (kccitm)
